@@ -1,0 +1,97 @@
+{
+  "totalIncome": 4251.66,
+  "expenses": {
+    "debit": [
+      {
+        "id": 1,
+        "description": "Rent",
+        "amount": 1487.49,
+        "dueDate": "2026-01-01",
+        "paidDate": null,
+        "group": "Housing",
+        "lender": "AppFolio Portal"
+      },
+      {
+        "id": 2,
+        "description": "SUV payment",
+        "amount": 523.92,
+        "dueDate": "2026-01-19",
+        "paidDate": null,
+        "group": "Vehicles Payments",
+        "lender": "GM Financial"
+      },
+      {
+        "id": 3,
+        "description": "Truck payment",
+        "amount": 615.17,
+        "dueDate": "2026-01-14",
+        "paidDate": null,
+        "group": "Vehicles Payments",
+        "lender": "Mountain American Credit Union"
+      },
+      {
+        "id": 4,
+        "description": "Samsung Galaxy S25 Ultra",
+        "amount": 48.34,
+        "dueDate": "2026-01-02",
+        "paidDate": null,
+        "group": "Phones Payments",
+        "lender": "Affirm"
+      },
+      {
+        "id": 5,
+        "description": "Google Pixel 9 Pro",
+        "amount": 30.64,
+        "dueDate": "2026-01-15",
+        "paidDate": null,
+        "group": "Phones Payments",
+        "lender": "Synchrony Bank"
+      },
+      {
+        "id": 6,
+        "description": "Internet",
+        "amount": 65.61,
+        "dueDate": "2026-01-03",
+        "paidDate": null,
+        "group": "Utilities",
+        "lender": "AT&T"
+      },
+      {
+        "id": 7,
+        "description": "Dental Insurance",
+        "amount": 52.17,
+        "dueDate": "2026-01-28",
+        "paidDate": null,
+        "group": "Insurances",
+        "lender": "DentaQuest"
+      },
+      {
+        "id": 8,
+        "description": "CitiBank Balance Transfer",
+        "amount": 44.0,
+        "dueDate": "2026-01-06",
+        "paidDate": null,
+        "group": "Loans",
+        "lender": "CitiBank"
+      },
+      {
+        "id": 9,
+        "description": "LendingClub Personal Loan",
+        "amount": 260.17,
+        "dueDate": "2026-01-03",
+        "paidDate": null,
+        "group": "Loans",
+        "lender": "LendingClub"
+      },
+      {
+        "id": 10,
+        "description": "Lowe's Payment",
+        "amount": 44.0,
+        "dueDate": "2026-01-25",
+        "paidDate": null,
+        "group": "Loans",
+        "lender": "Affirm"
+      }
+    ]
+  }
+}
